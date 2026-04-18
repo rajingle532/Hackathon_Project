@@ -1,0 +1,4 @@
+ASYNC_STATUS_SCHEDULED = "scheduled"
+ASYNC_STATUS_PENDING = "pending"
+ASYNC_STATUS_COMPLETED = "completed"
+ASYNC_STATUS_FAILED = "failed"

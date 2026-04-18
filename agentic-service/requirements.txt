@@ -1,0 +1,32 @@
+# ── Agentic Service Dependencies ─────────────────────────────────────
+# Module 1: Foundation
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+
+# LLM
+google-generativeai>=0.8.0
+
+# Future modules (install now to avoid re-installs)
+# Module 2: LangGraph
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-google-genai>=2.0.0
+langchain-core>=0.3.0
+
+# Module 6: RAG
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+langchain-community>=0.3.0
+
+# Module 10: Memory
+pymongo>=4.8.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.24.0
+PyJWT>=2.8.0  
+ 

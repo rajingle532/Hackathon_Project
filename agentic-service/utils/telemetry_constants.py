@@ -1,0 +1,5 @@
+# Telemetry Constants
+DEFAULT_TELEMETRY_SOURCE = "agentic_system"
+HINDSIGHT_STATUS_PENDING = "pending"
+HINDSIGHT_STATUS_SUCCESSFUL = "successful"
+HINDSIGHT_STATUS_FAILED = "failed"

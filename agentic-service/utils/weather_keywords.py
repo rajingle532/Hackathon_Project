@@ -1,0 +1,19 @@
+WEATHER_KEYWORDS = [
+    "weather",
+    "rain",
+    "rainfall",
+    "temperature",
+    "humidity",
+    "climate",
+    "hot",
+    "cold",
+    "season",
+    "wind",
+    "irrigation",
+    "watering",
+    "heat",
+    "drought",
+    "frost",
+    "sunny",
+    "cloudy"
+]
